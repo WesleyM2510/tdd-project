@@ -1,0 +1,2 @@
+Como testes funcionais lidam com um pequeno módulo do código, eles acabam sendo menos complexos que testes funcionais,
+outra diferença é que testes de unidade são feitos em maior volume que testes funcionais.
